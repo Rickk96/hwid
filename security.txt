@@ -1,1 +1,1 @@
-VERSION=ananın amı
+VERSION=1.0
