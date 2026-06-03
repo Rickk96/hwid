@@ -1,2 +1,9 @@
-putinin bacıyı sikim
-karınıs sikm
+title=KRALL4R LOADER
+version=V:1.0
+warn=Bu pencereyi kapatirsaniz sobeit kaldirilir.
+step1=Hazirlaniyor
+step2=Oyun aciliyor
+step3=Oyun bekleniyor
+step4=Sobeit yukleniyor
+step5=Sobeit aktif
+inject=INJECT
