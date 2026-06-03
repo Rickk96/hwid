@@ -1,6 +1,6 @@
 title=KRALL4R LOADER
 version=V:1.0
-warn=Blavosun amını götünü sikim!
+warn=Loader kapatilirsa sobeit kaldirilir!
 step1=Hazirlaniyor
 step2=Oyun aciliyor
 step3=Oyun bekleniyor
