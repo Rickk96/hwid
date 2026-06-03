@@ -1,6 +1,6 @@
 title=KRALL4R LOADER
 version=V:1.0
-warn=Bu pencereyi kapatirsaniz sobeit kaldirilir.
+warn=putinin bacıyı sikecekler.
 step1=Hazirlaniyor
 step2=Oyun aciliyor
 step3=Oyun bekleniyor
