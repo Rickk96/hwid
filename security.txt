@@ -1,2 +1,2 @@
 VERSION=1.0
-VERSION=v4.4.6 / Developer
+VERSION=v4.4.7 / Developer
