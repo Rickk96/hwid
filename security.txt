@@ -1,2 +1,1 @@
-VERSION=1.0
 VERSION=v4.4.8 / Developer
