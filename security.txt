@@ -1,1 +1,1 @@
-VERSION=v5.0.5 / Developer
+VERSION=v5.0.6 / Developer
